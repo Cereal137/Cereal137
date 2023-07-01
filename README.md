@@ -23,3 +23,5 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Cereal137)
 [![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=macos)](https://github.com/Cereal137)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cereal137)](https://github.com/anuraghazra/github-readme-stats)
