@@ -1,3 +1,5 @@
+![photo of Mount YuLong](mountYuLong.jpg)
+
 <h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 - 🔭 I’m currently working on JWST imaging and galaxy properties
